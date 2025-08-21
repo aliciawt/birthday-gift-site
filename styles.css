@@ -17,7 +17,7 @@ body {
     font-family: main-font, sans-serif;
     color: #ffffff;
     text-align: center;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background-image: linear-gradient(#a2d2ff, #EFB0C9);
 }
 
 h1 {
